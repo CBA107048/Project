@@ -17,10 +17,15 @@ python
 DEMO
 ---
 
-
+Q-Learning DEMO
 
 https://user-images.githubusercontent.com/83400710/211995261-04658dab-2bce-48d0-9aaf-6b327e404dcd.mp4
 
+SARSA DEMO
+
+
+
+https://user-images.githubusercontent.com/83400710/211995511-ae16c308-2f6d-44e3-bfbd-a9d2d11e434f.mp4
 
 
 
