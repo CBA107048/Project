@@ -32,12 +32,13 @@ https://user-images.githubusercontent.com/83400710/211995511-ae16c308-2f6d-44e3-
 
 資料連結
 ---
-程式連結:https://colab.research.google.com/drive/1nEG9NBgzJjY7bzKPeyPCDLDIFAwj1J9x?authuser=0
+[Colab程式連結](https://colab.research.google.com/drive/1nEG9NBgzJjY7bzKPeyPCDLDIFAwj1J9x?authuser=0)
 
-[參考資料1](https://zhuanlan.zhihu.com/p/53334049)  
+[參考資料1](https://zhuanlan.zhihu.com/p/53334049"小白带你学---贪心算法（Greedy Algorithm)
+")  
 
-[參考資料2](https://houbb.github.io/2020/01/23/data-struct-learn-07-base-greedy)  
+[參考資料2](https://houbb.github.io/2020/01/23/data-struct-learn-07-base-greedy"五大基本算法之贪心算法 Greedy")  
 
-[參考資料3](https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D77576F0000002A6375706F795F72656C656173655155455354)
+[參考資料3](https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D77576F0000002A6375706F795F72656C656173655155455354"Q-learning 中的Epsilon greedy strategy 是什麼?")
 
-[參考資料4](https://www.baeldung.com/cs/epsilon-greedy-q-learning)
+[參考資料4](https://www.baeldung.com/cs/epsilon-greedy-q-learning"Epsilon-Greedy Q-learning")
